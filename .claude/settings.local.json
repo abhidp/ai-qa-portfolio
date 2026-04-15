@@ -11,7 +11,8 @@
       "Bash(python -c \"import ragas.metrics; print\\(dir\\(ragas.metrics\\)\\)\")",
       "Bash(python -c \":*)",
       "Bash(git add:*)",
-      "Bash(git commit:*)"
+      "Bash(git commit:*)",
+      "Bash(deepeval test:*)"
     ]
   }
 }
