@@ -4,3 +4,4 @@
 - [project_ai_qa_portfolio.md](project_ai_qa_portfolio.md) — AI QA portfolio 6-phase plan, current focus Phase 2
 - [user_machine.md](user_machine.md) — Machine specs: 32GB RAM, RTX 4050, Ollama preference
 - [project_trading_calculator_chatbot.md](project_trading_calculator_chatbot.md) — Plan: RAG chatbot for Trading Volume Calculator Flask app (interview-ready Phase 2)
+- [feedback_learning_mode.md](feedback_learning_mode.md) — CRITICAL: Workshop-style teaching, not task completion. Explain before coding.

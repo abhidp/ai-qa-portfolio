@@ -10,6 +10,16 @@ Each phase is a standalone, working project with its own test suite, documentati
 
 ---
 
+## COMPLETED: Phase 1 — LLM Evaluation with DeepEval
+
+- [x] Install deepeval, connect to Ollama (local LLM)
+- [x] Write test cases with AnswerRelevancyMetric, FaithfulnessMetric, HallucinationMetric, BiasMetric
+- [x] 4 metrics running against real Llama 3.1 responses (13 test cases total)
+- [x] Pytest integration with deepeval test run
+- [x] Commit working milestone
+
+---
+
 ## COMPLETED: Phase 2 — RAG Pipeline Testing with RAGAS
 
 - [x] Build a minimal RAG pipeline using LangChain + ChromaDB (local, free)
